@@ -1,0 +1,8 @@
+# Except these ...
+!1/
+!2/
+
+# ... ignore all these folders
+1_2018/
+Lab/
+Misc/

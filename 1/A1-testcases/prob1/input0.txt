@@ -1,0 +1,13 @@
+5 6
+gakiwi
+rpopla
+apapba
+plemon
+eeepbp
+6
+apple
+lemon
+banana
+kiwi
+papaya
+grape
