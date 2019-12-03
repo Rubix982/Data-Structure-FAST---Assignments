@@ -263,7 +263,7 @@ private:
 };
 
 int main(void) {
-
+    
     // Open the three required files 
     std::ifstream InFile("P1_input.txt");
     std::ofstream OutFile_Sum("P1_output_sum.txt");
